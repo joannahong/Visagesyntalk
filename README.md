@@ -12,4 +12,4 @@ Each demo video contains the original speech, the generated speech from previous
 
 <example>
  <p align="center">
-  <img src="thumbnail.gif" width="80%" height="80%" /></p>
+  <img src="demo-videos/thumbnail.gif" width="80%" height="80%" /></p>
